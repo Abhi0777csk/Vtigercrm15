@@ -28,4 +28,10 @@
 <p>I Am From Solapur</p>
 </html>
 
-
+driver.manage().window().maximize();
+driver.manage().window().minimize();
+driver.manage().window().fullscreen();
+driver.manage().window().getsize();
+driver.manage().window().setsize();
+driver.manage().window().getposition();
+driver.manage().window().setposition();
